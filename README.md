@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - 👨 Know more about me at [Sourcerer](https://sourcerer.io/lyyancey) 
 - 🌐 Visit my [porfolio website](https://lyyancey.github.io/) for complete background and contact.
 - :boom: awesome octoprofile : [Yancey](https://octoprofile.now.sh/user?id=keshavsingh4522)
-<!-- - ⚡ Languages: **Python3 | SQL | HTML | CSS |** -->
+<!-- - ⚡ Languages: **Python3 | Java | C++ | JavaScript |** -->
 
 <br />
 <br />
@@ -93,10 +93,10 @@ YAML                     0 secs              ░░░░░░░░░░░�
 
 ```
 
-**I Mostly Code in Jupyter Notebook** 
+**I Mostly Code in Java** 
 
 ```text
-Jupyter Notebook         10 repos            █████████████████░░░░░░░░   71.43% 
+Java                     10 repos            █████████████████░░░░░░░░   71.43% 
 C++                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
 HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
 JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
