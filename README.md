@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/yancey39330165" target="_blank" rel="nofollow"><img align="right" alt="Yancey's Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" /></a><a href="" target="_blank" rel="nofollow"><img align="right" alt="Yancey's Linkdein" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /></a><a href="https://www.instagram.com/yancey6887/" target="_blank" rel="nofollow"><img align="right" alt="Yancey's Insta" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" /></a>
 </div>
 
-<img src='https://github.com/lyyancey/lyyancey/Assets/Monkey_Kid_Coding.gif' align='left'>
+<img src='https://github.com/lyyancey/lyyancey/tree/master/Assets/Monkey_Kid_Coding.gif' align='left'>
 
 ### Hi  👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/lyyancey)
 - :school: I'm [Yancey](https://lyyancey.github.io/), pursing Master from <a href="https://www.dlmu.edu.cn/">@DMU  </a>
