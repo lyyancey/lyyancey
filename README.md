@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - :bulb: Occasionaly I do practice in **LeetCode**
 - 👨 Know more about me at [Sourcerer](https://sourcerer.io/lyyancey) 
 - 🌐 Visit my [porfolio website](https://lyyancey.github.io/) for complete background and contact.
-- :boom: awesome octoprofile : [Yancey](https://octoprofile.now.sh/user?id=keshavsingh4522)
+- :boom: awesome octoprofile : [Yancey](https://octoprofile.now.sh/user?id=lyyancey)
 <!-- - ⚡ Languages: **Python3 | Java | C++ | JavaScript |** -->
 
 <br />
