@@ -59,7 +59,82 @@ Here are some ideas to get you started:
 <br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 47 Contributions in the Year 2022
+ > 
+> 📦 41.3 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 20 Public Repositories 
+ > 
+> 🔑 1 Private Repository 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    55 commits     ████████░░░░░░░░░░░░░░░░░   33.95% 
+🌆 Daytime    44 commits     ██████░░░░░░░░░░░░░░░░░░░   27.16% 
+🌃 Evening    57 commits     ████████░░░░░░░░░░░░░░░░░   35.19% 
+🌙 Night      6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.7%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       31 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.14% 
+Tuesday      19 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.73% 
+Wednesday    49 commits     ███████░░░░░░░░░░░░░░░░░░   30.25% 
+Thursday     32 commits     █████░░░░░░░░░░░░░░░░░░░░   19.75% 
+Friday       5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.09% 
+Saturday     16 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.88% 
+Sunday       10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.17%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   3 repos             ███████░░░░░░░░░░░░░░░░░░   30.0% 
+Java                     3 repos             ███████░░░░░░░░░░░░░░░░░░   30.0% 
+Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/lyyancey/lyyancey/master/charts/bar_graph.png) 
+
+
+ Last Updated on 27/07/2022 17:50:02 UTC
 <!--END_SECTION:waka-->
 
 </details>
