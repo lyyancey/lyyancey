@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 	<br>
-		<img src="good-times.svg">
+		<img src="wallhaven-vmm7kl.jpg">
 	<br>
 </div>
 <div align='center'><h1> Yancey :pray:</h1></div>
