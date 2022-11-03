@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-283%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-285%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -104,19 +104,16 @@ Sunday       15 commits     ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    3 hrs 5 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜   96.41% 
-Java                     6 mins              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   3.59%
+Other                    4 hrs 31 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.0%
 
 🔥 Editors: 
-Word                     3 hrs 5 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜   96.41% 
-IntelliJ                 6 mins              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   3.59%
+Word                     4 hrs 31 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.0%
 
 🐱‍💻 Projects: 
-Unknown Project          3 hrs 5 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜   96.41% 
-practice0                6 mins              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   3.59%
+Unknown Project          4 hrs 31 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.0%
 
 💻 Operating System: 
-Windows                  3 hrs 12 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.0%
+Windows                  4 hrs 31 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.0%
 
 ```
 
@@ -137,7 +134,7 @@ C++                      1 repo              ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Chart not found](https://raw.githubusercontent.com/lyyancey/lyyancey/master/charts/bar_graph.png) 
 
 
- Last Updated on 02/11/2022 18:47:03 UTC
+ Last Updated on 03/11/2022 18:51:21 UTC
 <!--END_SECTION:waka-->
 
 </details>
