@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 <img src='https://github.com/lyyancey/lyyancey/tree/master/Assets/Monkey_Kid_Coding.gif' align='left'>
 
+<!--
 ### Hi  👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/lyyancey)
 - :school: I'm Yancey
 - 🔭 I’m currently working on  **DMU's TSMC**
@@ -34,6 +35,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: **Programmer, Homebody** and **Kind Hearted**
 - :bulb: Occasionaly I do practice in **LeetCode**
 - 👨 Recently, I am learning go language.
+->
 <!-- - ⚡ Languages: **Python3 | Java | C++ | JavaScript |** -->
 
 <br />
